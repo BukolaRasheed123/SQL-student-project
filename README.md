@@ -1,2 +1,4 @@
-# SQL-student-project
-This project will test my SQL knowledge, from database design and CRUD operations to advanced concepts like joins, aggregation, indexing, and optimization. 
+# SQL Student Project for AltSchool of Data Engineering Karatu 2024 Second Semester Project Exam
+
+## Submitted by: Bukola Rasheed
+
